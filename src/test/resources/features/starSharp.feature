@@ -23,7 +23,7 @@ Feature: As a user, I want to be able to create a business unit and schedule a n
 
     Examples:
       |nameBusinessUnit| parentUnit |
-      |  luisUnit      | Admi       |
+      |  luisUnit      | Admin       |
 
   @scenario2
 

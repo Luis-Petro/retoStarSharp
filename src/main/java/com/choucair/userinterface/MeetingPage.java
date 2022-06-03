@@ -36,7 +36,6 @@ public class MeetingPage extends PageObject {
     public static final Target SEARCH_LOCATION = Target.the("search location")
             .located(By.id("s2id_autogen7_search"));
 
-
     public static final Target SELECT_UNIT = Target.the("where do we select unit")
             .located(By.cssSelector("#s2id_Serenity_Pro_Meeting_MeetingDialog10_UnitId > a > span.select2-arrow"));
     public static final Target SEARCH_UNIT = Target.the("unit")
